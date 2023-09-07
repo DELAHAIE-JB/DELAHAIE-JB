@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @[JB-DELAHAIE](https://github.com/JB-DELAHAIE)  
-- 👀 This account is only for storing personnal projects  
-- 💻 Every other projects is stored on a private account  
+- 👀 This account is only for storing personnal projects under RL name  
+- 💻 Every other projects is stored on a "private" account  
 - 📫 To reach me see my [curriculum vitae](https://jb-delahaie.github.io/cv) or the [PDF](https://github.com/JB-DELAHAIE/cv/raw/main/pdf.pdf)  
-- 🌐 You can also see my [website](https://jb-delahaie.github.io/site) ✋
+- 🌐 You can also see my [website](https://jb-delahaie.github.io/site)  
+- 💬 Or talk with me on [LinkedIn](https://www.linkedin.com/in/jean-baptiste-delahaie/) ✋  
