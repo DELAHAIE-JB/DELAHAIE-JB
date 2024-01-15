@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @[DELAHAIE-JB](https://github.com/DELAHAIE-JB)  
-I'm a 🇫🇷 **French developer & system administrator** **open for work**  
+👋 Hi, I’m @[DELAHAIE-JB](https://github.com/DELAHAIE-JB)  
+- I'm a 🇫🇷 **French developer & system administrator** **open for work**  
 
 # Private usage account
-👀 This account is only for storing personnal projects under RL name  
+👀 This account is only for **storing personnal projects under RL name**  
 - 💻 Every other projects is stored on a "private" account  
 
 # Contact
